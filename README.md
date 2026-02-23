@@ -151,14 +151,8 @@ current_projects = {
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshwardhan-sathe-774945332/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshwardhansathe1@gmail.com)
 
-</div>
-## 📊 GitHub Activity
+</div>## 🤖 AI Builder Mode
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+Projects+Every+Week;Exploring+AI+%2C+Dev+%26+New+Tech;Future+AI+Engineer" />
 </p>
