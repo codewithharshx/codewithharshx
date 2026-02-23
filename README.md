@@ -151,7 +151,7 @@ current_projects = {
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshwardhan-sathe-774945332/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshwardhansathe1@gmail.com)
 
-</div>## 🤖 AI Builder Mode
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+Projects+Every+Week;Exploring+AI+%2C+Dev+%26+New+Tech;Future+AI+Engineer" />
