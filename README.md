@@ -6,7 +6,26 @@
 
 <!-- 🧠 AI Neural Network Theme Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&text=Harshwardhan%20Sathe&fontSize=44&fontAlignY=38&desc=AI%20Neural%20Explorer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=63&descSize=18&color=0:0f2027,50:203a43,100:2c5364&fontColor=00f5ff&animation=fadeIn"/>
+<div align="center">
+
+<!-- 🧠 Animated AI Neural Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&text=Harshwardhan%20Sathe&fontSize=44&fontAlignY=38&desc=AI%20Neural%20Explorer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=63&descSize=18&color=0:020024,50:090979,100:00d4ff&fontColor=00f5ff&animation=twinkling"/>
+
+<br/>
+
+<!-- Neural Network Animation -->
+
+<img src="https://media.githubusercontent.com/media/74038190/ai-neural-network/main/neural.gif" width="420"/>
+
+<br/>
+
+<!-- Typing neural tagline -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&lines=Connecting+Ideas+Like+Neurons;Learning+AI+Through+Building;Turning+Curiosity+Into+Intelligence" />
+
+</div>
+
 
 <!-- Neural animation layer -->
 
