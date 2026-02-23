@@ -16,7 +16,6 @@
 ## 🚀 Projects
 
 💎 Jewellery Shop Management System — ([link](https://github.com/codewithharshx/Sofware-for-jewellary-shop))
-
 🎫 College Event Management System  
 💰 Personal Finance AI Advisor  
 
