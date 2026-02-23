@@ -2,7 +2,24 @@
 
 <!-- Header Banner -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshwardhan%20Sathe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<div align="center">
+
+<!-- 🧠 AI Neural Network Theme Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&text=Harshwardhan%20Sathe&fontSize=44&fontAlignY=38&desc=AI%20Neural%20Explorer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=63&descSize=18&color=0:0f2027,50:203a43,100:2c5364&fontColor=00f5ff&animation=fadeIn"/>
+
+<!-- Neural animation layer -->
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284126-0a4b3c4b-9c43-4c5c-bbd3-b7f3bbd9e1d2.gif" width="420"/>
+
+<!-- subtle AI tagline -->
+
+<br/>
+<b>⚡ Connecting Ideas Like Neurons • Building Intelligence Through Code</b>
+
+</div>
+
 
 <!-- Animated Subtitle -->
 
