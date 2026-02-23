@@ -153,6 +153,11 @@ current_projects = {
 
 </div>
 
+## 🌊 Coding Activity Wave
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Building%20Ideas%20Into%20Reality&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
 ---
 
 <div align="center">
