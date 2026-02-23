@@ -152,18 +152,13 @@ current_projects = {
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshwardhansathe1@gmail.com)
 
 </div>
-
-## 🌊 Coding Activity Wave
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Building%20Ideas%20Into%20Reality&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
----
 
-<div align="center">
-
-### 💡 "Learning, Building, and Growing — One Commit at a Time"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
