@@ -1,16 +1,14 @@
 <div align="center">
 
 <!-- Header Banner -->
+<!-- ⭐ Custom Animated Header (Purple → Cyan AI theme) -->
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Harshwardhan%20Sathe&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&color=0:7f00ff,50:e100ff,100:00f5ff"/>
 
-<!-- 🧠 AI Neural Network Theme Header -->
+<!-- ⭐ Custom Animated Subtitle -->
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=100&lines=AI+%26+Data+Science+Student;Full-Stack+%26+Desktop+App+Developer;Learning+Fast+%7C+Building+Projects+%7C+Growing+Daily+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- 🧠 Animated AI Neural Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&text=Harshwardhan%20Sathe&fontSize=44&fontAlignY=38&desc=AI%20Neural%20Explorer%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=63&descSize=18&color=0:020024,50:090979,100:00d4ff&fontColor=00f5ff&animation=twinkling"/>
 
 <br/>
 
