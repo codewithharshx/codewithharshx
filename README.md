@@ -47,7 +47,7 @@
 <!-- Social Badges -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshwardhan-sathe-774945332/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/harshs_r_s_11)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)]([https://instagram.com/harshs_r_s_11](https://www.instagram.com/harsh_r_s_11))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshwardhansathe1@gmail.com)
 
 <br/>
