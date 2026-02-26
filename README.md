@@ -103,9 +103,6 @@ fun_fact: "I turn coffee into code ☕→💻"
 | 🌟 **Starstruck** | Created a repository with many stars |
 | 🔥 **Pull Shark** | Opened PRs that were merged |
 | 💗 **Heart On Your Sleeve** | Reacted to community content |
-| 🌊 **Open Sourcerer** | Had PRs merged in multiple public repos |
-| 🧑‍🚀 **Galaxy Brain** | Answered discussions that were accepted |
-| 🦈 **Pair Extraordinaire** | Coauthored commits with others |
 
 ---
 
