@@ -29,7 +29,7 @@
 name: Harsh
 username: codewithharshx
 role: Full Stack Developer | Undergrad Student
-college: GHRCE (G H Raisoni College of Engineering)
+college: ADCET (Annasaheb Dandge College of Engineering)
 location: India 🇮🇳
 mission: "Working Towards Advancement of Technology"
 
